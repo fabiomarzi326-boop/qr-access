@@ -1,0 +1,8 @@
+<svg width="192" height="192" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" rx="32" fill="#000000"/>
+  <rect x="8" y="8" width="176" height="176" rx="28" stroke="#D4AF37" stroke-width="8" fill="none"/>
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Arial" font-size="96" fill="#D4AF37" font-weight="bold">
+    QR
+  </text>
+</svg>
